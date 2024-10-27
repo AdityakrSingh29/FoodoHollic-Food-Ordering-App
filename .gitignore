@@ -1,0 +1,4 @@
+/node-module
+/dist
+.parcel-cache
+/coverage
